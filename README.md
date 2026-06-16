@@ -1,2 +1,28 @@
-# 95b55bf6-barbershop-management-onboardi
-Stop losing barbers to inconsistent training and chaotic onboarding. This Notion template turns your shop's know-how into a repeatable system that gets every new hire cutting profitably from day one.  This is the only barbershop onboarding and training system built as a living Notion database — not a static PDF. It replaces scattered paper checklis
+# Barbershop Management Onboarding and Training System Notion Template
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard views | Yes | Yes |
+| Sample data | Yes | Yes |
+| Advanced automations | - | Yes |
+| Custom formulas | - | Yes |
+| Multiple databases | - | Yes |
+| Dashboard views | - | Yes |
+| Video tutorials | - | Yes |
+| Lifetime updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/8x29AT26He2M1deavOd0k0a)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/8x29AT26He2M1deavOd0k0a)
+
